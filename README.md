@@ -37,7 +37,7 @@ Este proyecto utiliza un microcontrolador (ESP32) junto con sensores de movimien
 1. Enciende el dispositivo. El LED se pondrá verde al conectarse a Wi-Fi.
 2. Accede a la URL mostrada en el Monitor Serie (ej.: `http://192.168.x.x`).
 3. La página web mostrará:
-   - "No hay movimiento detectado en: Sensor X" si hay movimiento (⚠️ **Nota**: Esto parece un error en la lógica del mensaje).
+   - "No hay movimiento detectado en: Sensor X" si hay movimiento.
    - "En todos hay movimiento" si no hay detección.
 
 ## Errores Conocidos
